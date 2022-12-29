@@ -16,6 +16,7 @@ public class TestArrayList{
      		Teacher t1 = new Teacher(scan.next(), scan.nextInt());
      		Teacher t2 = new Teacher(scan.next(), scan.nextInt());
      		Teacher t3 = new Teacher(scan.next(), scan.nextInt());
+		
 		//3. 添加元素进集合
      		list1.add(stu1);
      		list1.add(stu2);
